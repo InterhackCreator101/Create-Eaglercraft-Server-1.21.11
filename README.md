@@ -1,4 +1,4 @@
-# How to make a 1.12.2 eaglercraft server
+# How to make a 1.12.2 or 1.21.11 eaglercraft server
 ## Step 1: Setting up the environment
 Run the following command's to start the server up
 ```Shell
@@ -12,7 +12,6 @@ or
 ```shell
 bash eaglerserver
 ```
-## Dear Mojang Employee Looking to file a dmca report
-This repository is simply for a cracked miceraft server and if you look to take this down then think about all the services that have cracked server features.
-
+## Dear people wanted the most latest version of minecraft
+go to https://papermc.io/downloads/paper and replace server.jar with the paper Note:rename the paper jar server jar for eagler support you will need via forward, via backwards, and via rewind which is on https://hangar.papermc.io/
 
